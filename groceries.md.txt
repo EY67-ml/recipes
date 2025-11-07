@@ -1,4 +1,4 @@
 # List of Products	# Price
 - peas		 	£0.50
 - spring onions  	£0.75
-- potato	 	£0.60
+- potato	 	£0.60- Shell the peas
