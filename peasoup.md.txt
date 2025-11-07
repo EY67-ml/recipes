@@ -3,4 +3,3 @@
 - spring onions  £0.75
 - potato	 £0.60
 # Instructions
-- Shell the peas
