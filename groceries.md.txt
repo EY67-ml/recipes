@@ -1,4 +1,8 @@
 # List of Products	# Price
 - peas		 	£0.50
 - spring onions  	£0.75
+<<<<<<< HEAD
 - potato	 	£0.60- Shell the peas
+=======
+- potato	 	£0.60- Put peas into pan
+>>>>>>> 8d221c86437f2b43b43db2bd761135bccfbae546
